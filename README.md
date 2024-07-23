@@ -22,7 +22,7 @@
 
 ### Featured Projects
 
-1. **[SDN making switch a firewall]((https://github.com/dhingra30/SDN_Switch_Firewall_Python-VMware-Wireshark))**  
+1. **[SDN making switch a firewall](https://github.com/dhingra30/SDN_Switch_Firewall_Python-VMware-Wireshark)**  
    Description: The project uses Software Defined Networking and python script to configure a switch to operate as a firewall and test multiple firewall rules before deployment
 
 2. **[Firewall Webapp](https://github.com/dhingra30/Online_firewall_Webapp_Node.js-HTML-CSS-JS)**  
