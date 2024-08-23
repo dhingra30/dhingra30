@@ -31,7 +31,8 @@
 3. **[Address Book](https://github.com/dhingra30/Address-Book-App)**  
    Description: The python tkinter library is used to create the user interface of the address book app. The app provides an array of functionalities including adding new contact, editing existing contact, displaying a list of contact on the home screen and finally saving the data to a CSV file
 
-4. **[Musical Time Machine] (https://github.com/dhingra30/billboard-to-spotify)**
+4. **[Billboard to Spotify - Musical Time Machine](https://github.com/dhingra30/billboard-to-spotify)**  
+**[Musical Time Machine] (https://github.com/dhingra30/billboard-to-spotify)**
    Description: Billboard Hot 100 to Spotify Playlist Creator is a Python tool that converts Billboard Hot 100 charts into Spotify playlists. It scrapes top songs for any given date and creates a private Spotify playlist with those tracks. Key features include Billboard chart scraping, Spotify playlist integration, and error handling for missing tracks.
 
 ## Let's Connect!
